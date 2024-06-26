@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    
+}
+fieldset {background-color: white;
+
+text-align: center;
+margin: 0 auto;
+}
+div {background-color: white;
+    text-align: center;
+    margin: 0 auto;}
+.barrato {text-decoration: line-through;}
+p {display: inline-block;
+margin-right: 10px;}
+.container {position: relative;
+    height: 100%;
+    background-color: #732a84;}
+form {position: absolute;
+    top: 25%;
+    left: 25%;
+    width: 50%;}
+#btnsubmit {background-color: #00f4f4;}
+#elenco {background-color: #c5e0e5;}
+button {background-color: red;
+color: white;}
