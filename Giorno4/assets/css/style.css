@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gainsboro;
+}
+h1 {margin-bottom: 20px;}
+#bottone {margin-bottom: 20px;}
+#container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#tabella div {
+    display: inline-block;
+    width: 120px;
+    padding: 10px;
+    border: 1px solid black;
+
+}
+.red {background-color: red;
+color: white;}
+#tabelline {margin-top: 20px;
+margin-bottom: 20px;}
+#tabelline div {
+    display: inline-block;
+    width: 120px;
+    padding: 10px;
+    border: 1px solid black;
+
+}
